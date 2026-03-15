@@ -26,7 +26,7 @@ GitHub is a platform used for version control and collaboration. It allows devel
 ## Working
 The given repository was explored to understand its structure and the instructions provided in the README file. I studied the GitHub actions to understand how automated workflows can be used to build, test, and deploy the code. I reviewed the issues to track tasks, bugs, or improvement as give in the task. A pull request was created to propose changes to the repository. This allowed the modifications to be reviewed before merging into the main branch.
 
-![github](task3.png)
+![github](github.png)
 [githubrepo](https://github.com/UVCE-Marvel/git-task)
 
 ---
