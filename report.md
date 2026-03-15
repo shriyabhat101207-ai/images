@@ -10,7 +10,7 @@ An Application Programming Interface (API) allows different software application
 ## Working
 I understood how API works. APIs follow a request response model and the user interacts with the application. The application then sends a request to the API. This task uses the OpenWeather API to fetch real time weather data such as temperature and weather conditions. The API processes the request and the server sends back the data. Finally, the application displays the information
 
-![API](task2.png)
+![Task 2 Image](https://raw.githubusercontent.com/shriyabhat101207-ai/images/main/task2.png)
 
 ---
 
@@ -26,7 +26,7 @@ GitHub is a platform used for version control and collaboration. It allows devel
 ## Working
 The given repository was explored to understand its structure and the instructions provided in the README file. I studied the GitHub actions to understand how automated workflows can be used to build, test, and deploy the code. I reviewed the issues to track tasks, bugs, or improvement as give in the task. A pull request was created to propose changes to the repository. This allowed the modifications to be reviewed before merging into the main branch.
 
-![github](github.png)
+![GitHub Image](https://raw.githubusercontent.com/shriyabhat101207-ai/images/main/github.png)
 [githubrepo](https://github.com/UVCE-Marvel/git-task)
 
 ---
@@ -43,7 +43,7 @@ The command line interface in Ubuntu allowed me to interact with the system usin
 ## Working
 First, I created a folder and navigated into it. Then, I created a blank file and listed the files in the folder. I created multiple folders and concatenated 2 text files. All required file and directory operations mentioned were successfully executed using the terminal commands.
 
-![CLI](task4.png)
+![Task 4](https://raw.githubusercontent.com/shriyabhat101207-ai/images/main/task4.png)
 
 ---
 
@@ -65,8 +65,8 @@ I prepared the data and loaded the california housing dataset. I used "feature s
 3. R² Score– This indicates how well the model explains the variance in the data, i.e it shows how well the model predicts the data. If the value is closer to 1, it means better predictions.
 
 
-![linearregression](task5_1.png)
-![linearregression](task5_2.png)
+![Task 5](https://raw.githubusercontent.com/shriyabhat101207-ai/images/main/task5_1.png)
+![Task 5 - Part 2](https://raw.githubusercontent.com/shriyabhat101207-ai/images/main/task5_2.png)
 
 ---
 
@@ -89,8 +89,9 @@ plt.show()
 ```
 This revealed the hidden image
 
-![numpy](task6_1.png)
-![numpy](task6_2.png)
+![Task 6 - Part 1](https://raw.githubusercontent.com/shriyabhat101207-ai/images/main/task6_1.png)
+
+![Task 6 - Part 2](https://raw.githubusercontent.com/shriyabhat101207-ai/images/main/task6_2.png)
 
 ---
 
@@ -140,7 +141,7 @@ This task involved exploring TINKERCAD, an online electronics simulation platfor
 ## Working 
 First, I created a Tinkercad account and explored it. I also went through some simple circuits and understood the basic working of the components. Then created a simulation. I started by connecting ultrasonic sensor with the arduino and programmed it to calculate distance using time of flight principle. Then displayed the distances on serial monitor. Added a servo motor to rotate the ultrasonic sensor and collected distance measurements at different angles to simulate a radar detection system.
 
-![tinkercad](task9.png)
+![Task 9](https://raw.githubusercontent.com/shriyabhat101207-ai/images/main/task9.png)
 
 ---
 
@@ -158,7 +159,7 @@ Through this task I learnt the basics of the ESP32 microcontroller and created a
 ## Working
 First, I connected an LED to a GPIO pin on the ESP32.Then I Configured the arduino IDE for ESP32 board support. Wrote the code to create a web server that can toggle the LED ON/OFF and uploaded it on the ESP32. Then we can access the web server via a browser to control the LED.  
 
-![led](led.png)
+![LED](https://raw.githubusercontent.com/shriyabhat101207-ai/images/main/led.png)
 
 ---
 
@@ -176,8 +177,8 @@ This task involved learning the basics of soldering and familiarizing with the e
 
 First, I observed and leart the proper handling of soldering tools from the co-ordinator. Then I prepared a simple LED circuit on a perf board and applied flux to the joints and used the soldering iron to solder connections. Then used solder wick to remove any excess solder and ensured all solder joints were properly connected.
 
-![solder](solder.jpeg)
-![solder1](solder1.jpeg)
+![Soldering](https://raw.githubusercontent.com/shriyabhat101207-ai/images/main/solder.jpeg)
+![Soldering 1](https://raw.githubusercontent.com/shriyabhat101207-ai/images/main/solder1.jpeg)
 
 ---
 
@@ -193,7 +194,7 @@ This task involved using karnaugh maps to design a burglar alarm. The alarm is t
 # Working
 So, there can be 4 possible cases and we can create a K-map from each case and simplify the logic. Then I designed the circuit using AND, OR & NOT gates to indicate alarm conditions. 
 
-![kmap](kmap.jpeg)
+![K Map](https://raw.githubusercontent.com/shriyabhat101207-ai/images/main/kmap.jpeg)
 
 ---
 
@@ -202,8 +203,9 @@ So, there can be 4 possible cases and we can create a K-map from each case and s
 
 I recently took part in a hackathon "Codestorm" in the inter-college technical fest "IMPETUS" conducted by IEEE UVCE. We were given 4 problem statements and 3 hours to complete the problem statements. This improved my time management, problem solving skills and technical learning. It was a good opportunity to collaborate and brainstorm.
 
-![hackathon](hack.jpeg)
-![hackathon](hack1.jpeg)
+![Hack Image](https://raw.githubusercontent.com/shriyabhat101207-ai/images/main/hack.jpeg)
+
+![Hack 1](https://raw.githubusercontent.com/shriyabhat101207-ai/images/main/hack1.jpeg)
 
 ---
 
@@ -219,7 +221,7 @@ This task involved solving Linux challenges on the sadservers website. The goal 
 ## Working
 First, I Accessed the Sadservers platform and analyzed the problem by reading the description and system logs. I was given 8 hints to crack the problem and I was able to apply linux commands to investigate and fix the issues. Finally, I verified the solution by checking system responses and made the sad server happy.
 
-![sadserver](sadserver.png)
+![Sad Server](https://raw.githubusercontent.com/shriyabhat101207-ai/images/main/sadserver.png)
 
 ---
 
